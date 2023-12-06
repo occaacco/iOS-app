@@ -1,0 +1,620 @@
+[
+    {
+        "name": "Daswerk",
+        "events": [
+            {
+                "Link": "https://www.daswerk.org/programm/werknacht-x-cix/",
+                "Performer": "WERKNACHT x CIX",
+                "Date": "Freitag 01. Dezember  Samstag 02. Dezember 2023, 23:00 Uhr"
+            },
+            {
+                "Link": "https://www.daswerk.org/programm/techno-obscene-02-nine-o-nine-x-les-suspects-habituels/",
+                "Performer": "TECHNO OBSCENE 02 / NINE O NINE x LES SUSPECTS HABITUELS",
+                "Date": "Samstag 02. Dezember  Sonntag 03. Dezember 2023, 23:00 Uhr"
+            },
+            {
+                "Link": "https://www.daswerk.org/programm/labelnacht-by-gesindel-x-gdn-records/",
+                "Performer": "LABELNACHT by GESINDEL x GDN Records",
+                "Date": "Donnerstag 07. Dezember  Freitag 08. Dezember 2023, 23:00 Uhr"},
+            {
+                "Link": "https://www.daswerk.org/programm/gregor-tresher-cocoon-rec-lina-voll-schoen/",
+                "Performer": "GREGOR TRESHER [cocoon rec] + LINA [voll schoen]",
+                "Date": "Freitag 08. Dezember  Samstag 09. Dezember 2023, 23:00 Uhr"},
+            {
+                "Link": "https://www.daswerk.org/programm/stromklang-4-weihnachtsshow-mit-yasmo-die-klangkantine/",
+                "Performer": "STROMKLANG  #4 WEIHNACHTSSHOW mit YASMO & die KLANGKANTINE",
+                "Date": "Freitag 22. Dezember , 19:00 Uhr"
+            }
+        ]
+    },
+    {
+        "name": "Eventbrite",
+        "events": [
+            {
+                "Link": "https://www.eventbrite.at/e/halloween-w-anna-ullrich-tickets-188873364317?aff=ebdsoporgprofile",
+                "Performer": "HALLOWEEN w/ ANNA ULLRICH",
+                "Date": "So., Okt. 31, 23:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/funkroom-tickets-187904315867?aff=ebdsoporgprofile",
+                "Performer": "FUNKROOM",
+                "Date": "Sa., Okt. 30, 23:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/thomas-p-heckmann-tickets-187904135327?aff=ebdsoporgprofile",
+                "Performer": "THOMAS P. HECKMANN",
+                "Date": "Fr., Okt. 29, 23:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-afterhour-14-w-wiener-mischung-tickets-159548109691?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE AFTERHOUR #14 w/ WIENER MISCHUNG",
+                "Date": "So., Juni 27, 06:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-14-w-hart-lab-tickets-159548053523?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE #14 w/ HART LAB",
+                "Date": "Sa., Juni 26, 20:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-afterhour-13-w-ananas-tickets-159547730557?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE AFTERHOUR #13 w/ ANANAS",
+                "Date": "Sa., Juni 26, 06:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-13-w-fundburo-hernals-tickets-159547548011?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE #13 w/ FUNDBÜRO HERNALS",
+                "Date": "Fr., Juni 25, 20:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-afterhour-12-w-reeraw-tomagan-tickets-158512823121?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE AFTERHOUR #12 w/ REE:RAW & TOMAGAN",
+                "Date": "So., Juni 20, 06:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-12-w-push-network-tickets-158231242907?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE #12 w/ PUSH NETWORK",
+                "Date": "Sa., Juni 19, 20:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-afterhour-11-w-rosacowboykarl-tickets-158230994163?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE AFTERHOUR #11 w/ ROSACOWBOYKARL",
+                "Date": "Sa., Juni 19, 06:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-11-w-farad-rza-tickets-158512624527?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE #11 w/ FARAD & RÆZA",
+                "Date": "Fr., Juni 18, 20:00"
+            },
+            {
+                "Link": "https://www.eventbrite.at/e/micro-rave-afterhour-10-w-schwarztee-by-katerfruhstuck-tickets-158229997181?aff=ebdsoporgprofile",
+                "Performer": "MICRO RAVE AFTERHOUR #10 w/ SCHWARZTEE by KATERFRÜHSTÜCK",
+                "Date": "So., Juni 13, 06:00"
+            }
+        ]
+    },
+    {
+        "name": "Flucc",
+        "events": [
+            {
+                "Link": "https://www.flucc.at/events/nifHXp-wiener-sukzession-ausstellung-werkschau/",
+                "Performer": "Wiener Sukzession / Ausstellung + Werkschau",
+                "Date": "14:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/3Mnobo-wiener-sukzession-ausstellung-werkschau/",
+                "Performer": "Wiener Sukzession / Ausstellung + Werkschau",
+                "Date": "14:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/fHXMBo-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #1",
+                "Date": "17:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/MsAfiB-open-house-vienna-1-oasch-kv/",
+                "Performer": "OPEN HOUSE Vienna #1 OASCH KV",
+                "Date": "18:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/afEANG-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #2",
+                "Date": "18:30"
+            },
+            {
+                "Link": "https://www.flucc.at/events/R5RQGR-emma-mo-album-release-show/",
+                "Performer": "Emma-Mo Karma - Album Rls Show, Support: Flo Fin",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/GP8tHt-dans-trance-hardgroove-aus-hamburg/",
+                "Performer": "stress by Soundlabs: Soundlabs x Proleten Kollektiv x DANS",
+                "Date": "23:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/iTHuEG-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #3",
+                "Date": "18:30"
+            },
+            {
+                "Link": "https://www.flucc.at/events/oZ2y3n-unlockme-x-garten-von-eben/",
+                "Performer": "unlock|me x Garten von Eben",
+                "Date": "22:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/krzMeD-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #4",
+                "Date": "18:30"
+            },
+            {
+                "Link": "https://www.flucc.at/events/bNWTUB-malefiz-club-atlas/",
+                "Performer": "Malefiz + Club Atlas",
+                 "Date": "22:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/4kLHJv-common-rooms-orientation-screening-talk/",
+                "Performer": "ORIENT/ATION // Viennaqueershorts Screening // FLUCC COMMON ROOMS  //",
+                "Date": "17:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/d4ggpt-fyi-x-orientation-islandman-tur/",
+                "Performer": "Islandman - Popsicle Obstacle Tour 2023",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/ejN8FA-kubatur-rahmenprogramm-film-screening-w-zweintopf/",
+                "Performer": "Kubatur - Rahmenprogramm: Film Screening + Talk w/ zweintopf",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/ChS84m-viertel-event-preview-part-ii/",
+                "Performer": "vier::tel - Event Preview - Part II",
+                "Date": "18:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/o3k6vQ-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #5",
+                "Date": "18:30"
+            },
+            {
+                "Link": "https://www.flucc.at/events/TZgt7U-karaoke-flucc-i-know-what-you-sang-last-summer-thursdays-end-of-year-sessions/",
+                "Performer": "Karaoke FLUCC - I know what you sang last summer - Thursdays End of Year Sessions",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/dVz9M7-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #6",
+                "Date": "18:30"
+            },
+            {
+                "Link": "https://www.flucc.at/events/CPTti5-im-freudentaumel-weihnachtsfeier-w-theo-meier-and-many-more/",
+                "Performer": "Im Freudentaumel Weihnachtsfeier w/ Theo Meier, and many more",
+                "Date": "22:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/5SwGQo-milieu-kino-x-flucc-sine-meta-drom-fluc-fluctuated-rooms-am-praterstern-7/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #7",
+                "Date": "18:30"
+            },
+            {
+                "Link": "https://www.flucc.at/events/abR8Pb-rush-hour-this-is-tempo-pres-the-whistlers/",
+                "Performer": "Rushhour VS. This is Tempo w/ The Whistlers",
+                "Date": "23:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/ab2jmQ-milieukino-x-flucc-lkw-kino-am-praterstern/",
+                "Performer": "Milieu Kino x FLUCC - Sine Meta  & FLUC fluctuated rooms am Praterstern - #8",
+                "Date": "17:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/nzxbgC-drehlis-sonntagsdisko/",
+                "Performer": "Drehlis Sonntag'sdisko w/ Bruch, brrnje, Drehli Robnik",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/kfFpm6-kubatur-46500-oder-was-heisst-zuruckgeben-im-21-jahrhundert/",
+                "Performer": "Kubatur - 46.500 oder Was heißt zurückgeben im 21. Jahrhundert?",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/8bStRc-heinz-aus-wien-gaste-weihnachtskonzert/",
+                "Performer": "Heinz aus Wien + Gäste: Endlich schon wieder ein Weihnachtskonzert",
+                "Date": "20:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/LqrHbb-g5-events-mit-4-heimischen-rockbands/",
+                "Performer": "Rock Night pt. II w/ N.E.B.Y., JUNGER, Smelly Jelly, Seven Oak Street",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/UxHvhz-echosphere/",
+                "Performer": "Echosphere w/ Earthling, Knartz, unlock|me, Imago Kollektiv",
+                "Date": "23:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/7rkePA-weihnachtsstress-w-soundlabs/",
+                "Performer": "Weihnachtsstress 2.0 w/ Soundlabs",
+                "Date": "23:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/7fyhRe-vienn_a_tek-w-luche-takatuka-nos-sys/",
+                "Performer": "Vienn_a_Tek Xmas Special w/ Luche, Takatuka, Noi Sys",
+                "Date": "23:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/D8hee7-karaoke-flucc-suit-up-edition/",
+                "Performer": "Karaoke FLUCC - Suit-Up Edition",
+                "Date": "19:00"
+            },
+            {
+                "Link": "https://www.flucc.at/events/3nYPYY-sin/",
+                "Performer": "SIN x Gesindel der Nacht w/ GehLekTek",
+                "Date": "22:00"
+            }
+        ]
+    },
+    {
+        "name": "Goabase",
+        "events": [
+            {
+                "Link": "https://www.goabase.net/party/bionic-ritual-7th-anniversary-w-rezonant-klangmassaker-weirdly-wired/109990",
+                "Performer": "Psychedelic Savezone",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/einfach-feiern-michaels-geburtstag/reports/111284",
+                "Performer": "NO TIME FOR SILENCE Comeback & NTFS Records Label Party",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/step-higher/111761",
+                "Performer": "CARBØN",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/festival/rueck-to-the-roots/reports/111135",
+                "Performer": "NO TIME FOR SILENCE Comeback & NTFS Records Label Party",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/festival/ligor-spirit-festival-2024-l-rise-of-the-naga/meetingpoint/110575",
+                "Performer": "Ligor Spirit Festival - Nakhon Si Thammarat",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/psytribe/reports/111199",
+                "Performer": "NO TIME FOR SILENCE Comeback & NTFS Records Label Party",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/festival/spirit-base-2024/meetingpoint/111460",
+                "Performer": "Unity Gathering 2024",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/alte-stampfschule/meetingpoint/111590",
+                "Performer": "Psychedelische Gruppentherapie",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/tayat-psy-warp-to-2024-birthday-bash/111760",
+                "Performer": "Dark Wolves of Twilight",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/festival/spirit-base-2024/111460",
+                "Performer": "Unity Gathering 2024",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/no-time-for-silence-comeback-ntfs-records-label-party/111762",
+                "Performer": "Deep In Forest",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/1mai-free-open-air-20th-anniversary/111614",
+                "Performer": "NO TIME FOR SILENCE Comeback & NTFS Records Label Party",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/bionic-ritual-bicycle-day-special/111074",
+                "Performer": "Bionic Ritual 7th Anniversary w/ Rezonant, Klangmassaker, Weirdly Wired",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/psylige-nacht/111667",
+                "Performer": "Abstract Ritual - First time in Austria [HiTech/PsyCore/DarkPsy]",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/echosphere-pres-earthling/109777",
+                "Performer": "PSYlige Nacht",
+                "Date": ""
+            },
+            {
+                "Link": "https://www.goabase.net/party/psychedelic-savezone/111755",
+                "Performer": "ECHOSPHERE pres. Earthling",
+                "Date": ""
+            }
+        ]
+    },
+    {
+        "name": "Good Night",
+        "events": [
+            {
+                "Link": "",
+                "Date": "Kultur, 19-21 Uhr",
+                "Performer": "Buchpräsentation & Lesung von und mit Sophia Lunra Schnack"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 19:15-21 Uhr",
+                "Performer": "Luki's Pub Quiz"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 19:30-20:30 Uhr",
+                "Performer": "Toxische Pommes - Ketchup, Mayo und Ajvar"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 20-22 Uhr",
+                "Performer": "QUEER OPENING | Queer Shorts Vienna 2023"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 19-22 Uhr",
+                "Performer": "Open Loft - Dezember"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 19-21:30 Uhr",
+                "Performer": "HUMAN RIGHTS TALK: Klimaschutz und Generationengerechtigkeit: Wer ist verantwortlich?"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 19-22 Uhr",
+                "Performer": "FM4 Tribe Vibes pres. Grandmaster Flash"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 20:30-22 Uhr",
+                "Performer": "GiGGles I Comedy Open Mic"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-4 Uhr",
+                "Performer": "Back on track"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 16-20 Uhr",
+                "Performer": "Coca-Cola Weihnachtstruck Tour"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 18-0 Uhr",
+                "Performer": "Jameson Connects"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 20-0:30 Uhr",
+                "Performer": "Swing 'n' Roll feat. DJ King D"
+            },
+            {
+                "Link": "",
+                "Date": "Trivia, 21-4 Uhr",
+                "Performer": "Cheval fatale \"All Stars\" & Vernetzungstreffen"
+            },
+            {
+                "Link": "",
+                "Date": "Design, 12-18 Uhr",
+                "Performer": "Christmas Design Pop Up"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 17-2 Uhr",
+                "Performer": "Grand Opening: ZIIZUU"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 18-1 Uhr",
+                "Performer": "ROOFTOP100 AFTERWORK | X-Mas Edition"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 19-4 Uhr",
+                "Performer": "30 Dancing Après Nikolo"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 22-4 Uhr",
+                "Performer": "Queer Shorts Vienna X Haus of Rausch"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-6 Uhr",
+                "Performer": "Zuckerwatt w/Victor Ruiz x Wiener Mischung"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-6 Uhr",
+                "Performer": "WHIPLASH"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-6 Uhr",
+                "Performer": "stress | soundlabs x proleten"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-5 Uhr",
+                "Performer": "Silent Disco im WUK"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 12-18 Uhr",
+                "Performer": "VIOLAs Punsch, Kunst- & Flohmarkt"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 12-18 Uhr",
+                "Performer": "Vinokilo Vintage Kilo Sale"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 12-23 Uhr",
+                "Performer": "PARADIESL festival"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 15-0 Uhr",
+                "Performer": "Holy Tschak!"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-6 Uhr",
+                "Performer": "Impulse w/KRL MX, DLV, KTK"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-6 Uhr",
+                "Performer": "Melting Minds x Rave on w/Gehlektek & Enko"
+            },
+            {
+                "Link": "",
+                "Date": "Design, 10:30-18 Uhr",
+                "Performer": "BeThrifty Vintage Kilo Sale"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 12-18 Uhr",
+                "Performer": "Vinokilo Vintage Kilo Sale"
+            },
+            {
+                "Link": "",
+                "Date": "Design, 12-18 Uhr",
+                "Performer": "Christmas Design Pop-Up"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 12-23 Uhr",
+                "Performer": "PARADIESL festival"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 23-6 Uhr",
+                "Performer": "Straat 264 w/MDR, Pau & EloTrance"
+            },
+            {
+                "Link": "",
+                "Date": "Design, 10:30-18 Uhr",
+                "Performer": "BeThrifty Vintage Kilo Sale"
+            },
+            {
+                "Link": "",
+                "Date": "Freizeit, 15-0 Uhr",
+                "Performer": "Holy Tschak!"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 16-22 Uhr",
+                "Performer": "Techno Punsch I VOL II"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 17:30-20 Uhr",
+                "Performer": "Meet & Greet + Artist Talk mit Manfred Baumann"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 18-21 Uhr",
+                "Performer": "Vernissage  Rudi Fitz: \"Durch Raum und Zeit\""
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 19-21 Uhr",
+                "Performer": "PROSA wächst. Literarische Texte für Alle III"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 18-22 Uhr",
+                "Performer": "minciospace_ Showing #1"
+            },
+            {
+                "Link": "",
+                "Date": "Party, 18-23 Uhr",
+                "Performer": "Electric Lobby  Tuesday After Work"
+            },
+            {
+                "Link": "",
+                "Date": "Design, 18-21 Uhr",
+                "Performer": "Workshop: Weihnachtsschmuck beschriften für Anfänger*innen"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 19-21 Uhr",
+                "Performer": "Ausstellungseröffnung: HARD/SOFT"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 20-22 Uhr",
+                "Performer": "Brel / Benjamin Vanyek"
+            },
+            {
+                "Link": "",
+                "Date": "Kultur, 20:30-22 Uhr",
+                "Performer": "Konzert: HORAK"
+            }
+        ]
+    },
+    {
+        "name": "Grelleforelle",
+        "events": [
+            {
+                "Link": "https://www.grelleforelle.com/project/0912-techno-entgleist-santas-sinners/",
+                "Date": "09/12",
+                "Performer": "TECHNO ENTGLEIST | SANTA’S SINNERS"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/0812-impulse-wkrl-mx-dlv-ktk/",
+                "Date": "08/12",
+                "Performer": "Impulse w/ KRL MX, DLV, KTK"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/0712-zuckerwatt-w-victor-ruiz-x-wiener-mischung/",
+                "Date": "07/12",
+                "Performer": "ZUCKERWATT w/ VICTOR RUIZ x Wiener Mischung | <><"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/2212-mcr-t-frederic-caiva-selected-x-grelle-forelle-xmas/",
+                "Date": "22/12",
+                "Performer": "MCR-T, Frederic., Caiva | Selected X Grelle Forelle XMAS"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/2602-the-last-dinner-party-wien/",
+                "Date": "26/02",
+                "Performer": "The Last Dinner Party | Wien"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/0304-yung-yury-matheo-tour-2024-grelle-forelle/",
+                "Date": "03/04",
+                "Performer": "Yung Yury “Matheo Tour 2024” // Grelle Forelle"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/2501-ferris-mc-dj-stylewarz-live-in-wien/",
+                "Date": "25/01",
+                "Performer": "FERRIS MC & DJ Stylewarz live in Wien"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/0112-0212-twelve-yrs/",
+                "Date": "01/12 & 02/12",
+                "Performer": "Twelve YRS <><"
+            },
+            {
+                "Link": "https://www.grelleforelle.com/project/1612-contrast-pres-vision-w-icicle-emperor-forbidden-society-rohaan-18/",
+                "Date": "16/12",
+                "Performer": "CONTRAST pres. VISION w/ ICICLE + EMPEROR + FORBIDDEN SOCIETY + ROHAAN | 18+"
+            }
+        ]
+    }
+]
